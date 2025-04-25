@@ -1,3 +1,5 @@
+App Link:
+https://textvisionnew.streamlit.app/
 # TextVision OCR
 
 TextVision OCR is a powerful Optical Character Recognition (OCR) web application designed to accurately extract text from images in various formats such as PNG, JPG, and JPEG. Utilizing PaddleOCR, the application effectively recognizes text across different languages and presents it in a user-friendly interface. The project not only extracts text but also provides a visual representation of detected text through bounding boxes, allowing users to verify the accuracy of the recognition. Additionally, users can easily download the extracted text as a .txt file for further use.
